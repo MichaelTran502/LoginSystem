@@ -16,14 +16,14 @@ User login and registration system built with Spring Boot.
 Using postgreSql create a database named "registration"
 
 Install mailDev
-'''
+```
 npm install -g maildev
-'''
+```
 
 run the maildev server
-'''
+```
 maildev
-'''
+```
 
 ## Example
 
