@@ -28,9 +28,10 @@ maildev
 ## Example
 
 ## Motivation
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+I built this project into order tp showcase my backend java skills.
+Particularly i wanted to show that i had experience with building secure
+login systems with Spring security and Spring Data Jpa.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
