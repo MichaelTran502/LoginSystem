@@ -27,11 +27,11 @@ maildev
 
 ## Example
 
-![login](/screeenshots/login.png)
+![login](/screenshots/login.png)
 
-![post request](/screeenshots/postman.png)
+![post request](/screenshots/postman.png)
 
-![email confirmation](/screeenshots/email.png)
+![email confirmation](/screenshots/email.png)
 
 ## Motivation
 
