@@ -27,6 +27,12 @@ maildev
 
 ## Example
 
+![login](/screeenshots/login.png)
+
+![post request](/screeenshots/postman.png)
+
+![email confirmation](/screeenshots/email.png)
+
 ## Motivation
 
 I built this project into order tp showcase my backend java skills.
