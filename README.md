@@ -35,7 +35,7 @@ maildev
 
 ## Motivation
 
-I built this project into order tp showcase my backend java skills.
+I built this project into order to showcase my backend java skills.
 Particularly i wanted to show that i had experience with building secure
 login systems with Spring security and Spring Data Jpa.
 
